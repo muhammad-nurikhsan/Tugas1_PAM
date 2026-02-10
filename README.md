@@ -38,4 +38,5 @@ Program ini berfungsi sebagai implementasi awal konsep pengembangan aplikasi mob
 ---
 
 ## Screenshot Hasil Running
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/6d0257df-8f66-4765-84fb-62c05928a469" />
 
